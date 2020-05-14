@@ -1,2 +1,2 @@
-# brain-tumor-detector
+# Brain Tumor Detector
 Brain Tumor Detector
